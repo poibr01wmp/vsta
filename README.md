@@ -1,0 +1,2 @@
+# vsta
+carveout to AWS
